@@ -6,5 +6,7 @@ public class Runner {
 
         //siyami branchinde değişiklik yaptım
 
+        System.out.println();
+
     }
 }
